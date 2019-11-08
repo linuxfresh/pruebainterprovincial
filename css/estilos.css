@@ -1,0 +1,47 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h1{
+    
+    /* text-align: center; */
+    color: #983011d2;
+    background-color: #fae9e1;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+
+p{
+    margin: 1px;
+    padding: 1px;
+    /* text-align: justify; */
+    /* background: pink; */
+    /* color: white; */
+}
+.columna{
+    font-size: 12px;
+    color:#37b898
+}
+div {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
+}
+
+div.ui-datepicker{
+    font-size:13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+
+input{
+    font-size:13px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+label{
+    font-size:14px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    
+}
